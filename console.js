@@ -1,1 +1,3 @@
-console.log('test');
+ <script>
+        console.log("Nasz pierwszy skrypt!");
+</script>

@@ -1,1 +1,1 @@
-        console.log("Nasz pierwszy skrypt!");
+console.log("Nasz pierwszy skrypt!");
